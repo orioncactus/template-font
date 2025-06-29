@@ -1,0 +1,114 @@
+{
+glyphname = l;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (294,0);
+},
+{
+name = cross;
+pos = (294,746);
+},
+{
+name = raccent;
+pos = (602,1448);
+},
+{
+name = top;
+pos = (294,1630);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,1448,l),
+(100,0,l),
+(490,0,l),
+(490,1448,l)
+);
+}
+);
+width = 588;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (192,0);
+},
+{
+name = cross;
+pos = (192,746);
+},
+{
+name = raccent;
+pos = (348,1448);
+},
+{
+name = top;
+pos = (192,1630);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,1448,l),
+(170,0,l),
+(214,0,l),
+(214,1448,l)
+);
+}
+);
+width = 384;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (224,0);
+},
+{
+name = cross;
+pos = (224,746);
+},
+{
+name = raccent;
+pos = (448,1448);
+},
+{
+name = top;
+pos = (222,1630);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(138,1448,l),
+(138,0,l),
+(310,0,l),
+(310,1448,l)
+);
+}
+);
+width = 446;
+}
+);
+metricLeft = h;
+metricRight = l;
+unicode = 108;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

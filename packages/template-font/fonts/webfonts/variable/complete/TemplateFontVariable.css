@@ -1,0 +1,15 @@
+/*
+Copyright (c) 2025 Lorem., with Reserved Font Name Template Font Variable.
+https://github.com/ipsum/template-font
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+@font-face {
+    font-family: "Template Font Variable";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 45 930;
+    src: url("./woff2/TemplateFontVariable.woff2") format("woff2-variations");
+}

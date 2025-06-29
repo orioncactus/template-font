@@ -1,0 +1,71 @@
+/*
+Copyright (c) 2025 Lorem., with Reserved Font Name Template Font.
+https://github.com/ipsum/template-font
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    src: local("Template Font Black"), url("./woff2/TemplateFont-Black.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 800;
+    src: local("Template Font ExtraBold"), url("./woff2/TemplateFont-ExtraBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: local("Template Font Bold"), url("./woff2/TemplateFont-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: local("Template Font SemiBold"), url("./woff2/TemplateFont-SemiBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: local("Template Font Medium"), url("./woff2/TemplateFont-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: local("Template Font Regular"), url("./woff2/TemplateFont-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src: local("Template Font Light"), url("./woff2/TemplateFont-Light.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 200;
+    src: local("Template Font ExtraLight"), url("./woff2/TemplateFont-ExtraLight.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Template Font";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100;
+    src: local("Template Font Thin"), url("./woff2/TemplateFont-Thin.woff2") format("woff2");
+}

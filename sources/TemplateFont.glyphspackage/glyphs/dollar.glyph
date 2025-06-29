@@ -1,0 +1,79 @@
+{
+glyphname = dollar;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+guides = (
+{
+pos = (-148,2280);
+},
+{
+pos = (-148,764);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(738,-182,l),
+(738,1630,l),
+(622,1630,l),
+(622,-182,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 1326;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(612,-182,l),
+(612,1630,l),
+(566,1630,l),
+(566,-182,l)
+);
+},
+{
+alignment = -1;
+ref = S;
+}
+);
+width = 1174;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(678,-182,l),
+(678,1630,l),
+(562,1630,l),
+(562,-182,l)
+);
+},
+{
+alignment = -1;
+ref = S;
+}
+);
+width = 1244;
+}
+);
+metricLeft = S;
+metricRight = S;
+unicode = 36;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

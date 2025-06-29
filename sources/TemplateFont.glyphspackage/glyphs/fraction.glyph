@@ -1,0 +1,99 @@
+{
+glyphname = fraction;
+kernLeft = fraction;
+kernRight = fraction;
+layers = (
+{
+anchors = (
+{
+name = dnom;
+pos = (518,770);
+},
+{
+name = numr;
+pos = (22,678);
+}
+);
+guides = (
+{
+pos = (-192,1024);
+},
+{
+angle = 90;
+orientation = center;
+pos = (-192,764);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-90,0,l),
+(906,1448,l),
+(634,1448,l),
+(-362,0,l)
+);
+}
+);
+width = 544;
+},
+{
+anchors = (
+{
+name = dnom;
+pos = (476,770);
+},
+{
+name = numr;
+pos = (22,678);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-220,0,l),
+(772,1448,l),
+(718,1448,l),
+(-274,0,l)
+);
+}
+);
+width = 498;
+},
+{
+anchors = (
+{
+name = dnom;
+pos = (486,770);
+},
+{
+name = numr;
+pos = (32,678);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-160,0,l),
+(836,1448,l),
+(674,1448,l),
+(-322,0,l)
+);
+}
+);
+width = 514;
+}
+);
+unicode = 8260;
+userData = {
+interface.gridadjust.original = "{'width': 1284, 'leftMargin': 81, 'rightMargin': 73}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}
